@@ -24,7 +24,7 @@ Categorical, Integer, Real
 ## Attribute Information:
 
 **Input variables (based on physicochemical tests):**<br />
- Given is the attribute name, attribute type, the measurement unit and a brief description.  The number of rings is the value to predict: either as a continuous value or as a classification problem.<br />
+Given is the attribute name, attribute type, the measurement unit and a brief description.  The number of rings is the value to predict: either as a continuous value or as a classification problem.<br />
 
 
 Name / Data Type / Measurement Unit / Description<br />
