@@ -1,6 +1,9 @@
 # Parameter-Optimization-SVM
 ## Sampling Assignment
 
+<img width="541" alt="SVMQuestion" src="https://github.com/niyatikapoor/Parameter-Optimization-SVM/assets/72340288/17af53f6-73d7-4492-89df-817c069073ed">
+
+
 **Dataset Used:** [Abalone Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/)
 
 | Number of Instances:  | 4177 |
